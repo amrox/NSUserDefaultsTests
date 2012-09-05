@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NSUserDefaultsTests' target in the 'NSUserDefaultsTests' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
